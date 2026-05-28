@@ -1,0 +1,27 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #1a1a1a;
+  box-sizing: border-box;
+  height: 100vh;
+}
+
+.container {
+  color: white;
+}
+
+#notify-form {
+  color: white;
+}
+
+
+#image-logo {
+  width : 300px;
+}
+
+.content {
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}

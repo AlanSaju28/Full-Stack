@@ -1,4 +1,5 @@
 # How the Internet Works
+Internet means the ability to connect with one computer to another.
 
 ## Basic Idea
 The internet is a network of computers that communicate with each other.
